@@ -28,7 +28,7 @@ _Itálico2_
 
 [Google](https://www.google.com)
 
-[Image](https://mediamanager.com.br/wp-content/uploads/2023/04/O-que-e-Markdown.png.webp)
+![Image](https://mediamanager.com.br/wp-content/uploads/2023/04/O-que-e-Markdown.png.webp)
 
 # Quotes
 
